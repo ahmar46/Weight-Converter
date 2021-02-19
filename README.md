@@ -1,1 +1,1 @@
-### This is a Weight Converter Web App
+### This is a Weight Converter Web App.
