@@ -1,4 +1,4 @@
-### This is a Weight Converter Web App that converts lbs to.
+### This is a Weight Converter Web App that converts lbs to k.
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
