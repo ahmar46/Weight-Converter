@@ -1,4 +1,4 @@
-### This is a Weight Converter Web App that co.
+### This is a Weight Converter Web App that con.
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
