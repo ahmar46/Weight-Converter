@@ -1,4 +1,4 @@
-### This is a Weight Converter Web App that converts lbs.
+### This is a Weight Converter Web App that converts lbs t.
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
