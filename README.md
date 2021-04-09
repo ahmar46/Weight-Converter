@@ -1,4 +1,4 @@
-### This is a Weight Converter Web App that converts.
+### This is a Weight Converter Web App that converts P.
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
