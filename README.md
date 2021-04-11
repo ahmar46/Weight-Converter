@@ -1,4 +1,4 @@
-### This is a Weight Converter Web App that converts lbs to kgs and vice v.
+### This is a Weight Converter Web App that converts lbs to kgs and vice ve.
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
